@@ -1,0 +1,16 @@
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: contact_dev
+  pool: 5
+  username: contactdba
+  password: Dad8e3cc!
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: contact_test
+  pool: 5
+  username: contactdba
+  password: Dad8e3cc

@@ -15,6 +15,9 @@ Have ruby updated and installed as wella s rails
 
 Add additional notes about how to deploy this on a live system
 
+## Documentation
+The documentation for the project can be found at https://github.com/Novandev/contact-api/wiki [https://github.com/Novandev/contact-api/wiki]
+
 ## Built With
 
 * [Rails](https://rubyonrails.org) - The web framework used

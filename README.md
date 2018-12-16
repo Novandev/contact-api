@@ -1,5 +1,6 @@
 # RAILS CONTACT API
 This is a simple JSON api that is used to store contacts for a given user
+Site can be seen live at : https://dca-contact-app.herokuapp.com/ [https://dca-contact-app.herokuapp.com/]
 
 ## Getting Started
 Clone the repo
